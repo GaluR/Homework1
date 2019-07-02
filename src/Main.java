@@ -6,5 +6,6 @@ public class Main {
         System.out.println("i");
         System.out.println("commitowania!");
         System.out.println("A ponadto dodałem następną klasę w moim programie.");
+        System.out.println("I cały czas poznaje nowe rzeczy.");
     }
 }
